@@ -12,23 +12,23 @@
 
 <h2>Hardskills</h2>
 <h3>Marketing</h3>
-- Project management
-- Management and Marketing
-- Microsoft Office | TOSA advanced level
-- Business Development
+- Project management</br>
+- Management and Marketing</br>
+- Microsoft Office | TOSA advanced level</br>
+- Business Development</br>
 <h3>Developpment</h3>
-- AGILE and SCRUM method
-- PHP and SQL
-- HTML | CSS | Javascript
-- Use of UI / UX best practices
+- AGILE and SCRUM method</br>
+- PHP and SQL</br>
+- HTML | CSS | Javascript</br>
+- Use of UI / UX best practices</br>
 
 <h2>Soft skills</h2>
-- Passionnate
-- Collective motivation
-- Curious
-- Appetite for challenge
+- Passionnate</br>
+- Collective motivation</br>
+- Curious</br>
+- Appetite for challenge</br>
 
 <h2>Keep in Touch</h2>
 
 <h2> Keep in touch </h2>
-<a href="https://www.linkedin.com/in/martin-justin-lang/"><img src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1619083343~hmac=0f555814057e6e4b74bb6aad8fe7ae06" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/martin-justin-lang/"><img src="![image](https://user-images.githubusercontent.com/78435873/115706996-8818f880-a36e-11eb-9984-f655cbb3dfa4.png)" width="50" height="50"></a>
