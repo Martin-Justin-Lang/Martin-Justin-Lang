@@ -28,7 +28,5 @@
 - Curious</br>
 - Appetite for challenge</br>
 
-<h2>Keep in Touch</h2>
-
 <h2> Keep in touch </h2>
-<a href="https://www.linkedin.com/in/martin-justin-lang/"><img src="![image](https://user-images.githubusercontent.com/78435873/115706996-8818f880-a36e-11eb-9984-f655cbb3dfa4.png)" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/martin-justin-lang/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/gerseystelmach/" height="30"></a>
