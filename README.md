@@ -12,4 +12,4 @@
 
 <h2> Keep in touch </h2>
 
-<a href="https://www.linkedin.com/in/martin-justin-lang/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/gerseystelmach/" height="30"></a>
+<a href="https://www.linkedin.com/in/martin-justin-lang/"><img align="center"  src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="https://www.linkedin.com/in/gerseystelmach/" height="30"></a>
