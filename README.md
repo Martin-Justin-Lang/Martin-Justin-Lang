@@ -1,4 +1,4 @@
-### Hi there, I'm Martin LANG 👋
+### <h1>Hi there, I'm Martin LANG 👋 </h1>
 
 - 🎓 I'm graduated in Marketing and holding a Master in Law, Economics and Management with a focus on Sales Marketing and Sales Distribution (BtoC).
 - 💻 I'm currently studying Web Developpment at [Wild Code School](https://www.wildcodeschool.com/)
