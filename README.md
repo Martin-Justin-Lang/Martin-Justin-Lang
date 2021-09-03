@@ -2,10 +2,10 @@
 
 - 🎓 I'm graduated in Marketing and holding a Master in Law, Economics and Management with a focus on Sales Marketing and Sales Distribution (BtoC).
 - 💻 I'm currently studying Web Developpment at [Wild Code School](https://www.wildcodeschool.com/)
-- 🥨 I'm currently based in Strasbourg, France.
-- 🌱 I’m currently learning on PHP and Symfony to improve my back end developpment skills.
-- 🔭 I’m currently looking a company for a work/study training program to keep up my developper career.
-- 🔍 I’m currently researching throughout France 🇫🇷, Switzerland 🇨🇭 and Luxembourg 🇱🇺.
+- 🥨 I'm currently based in Strasbourg, France 🇫🇷.
+- 🌱 I’m currently learning on JavaScript and ReactJS to improve my developpment skills.
+- 🔭 I’m currently working in Awaken in France [https://awaken.fr/fr/awaken-obd-2/]
+- 🔍 My dream is to find Product Owner job in  Canada 🇨🇦 | Québec 🏴󠁣󠁡󠁱󠁣󠁿
 
 
 <h2> Keep in touch </h2>
