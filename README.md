@@ -5,7 +5,7 @@
 - 🥨 I'm currently based in Strasbourg, France 🇫🇷.
 - 🌱 I’m currently learning on JavaScript and ReactJS to improve my developpment skills.
 - 🔭 I’m currently working in Awaken in France [https://awaken.fr/fr/awaken-obd-2/]
-- 🔍 My dream is to find Product Owner job in  Canada 🇨🇦 | Québec 🏴󠁣󠁡󠁱󠁣󠁿
+- 🔍 My dream is to find Product Owner job in  Canada 🇨🇦.
 
 
 <h2> Keep in touch </h2>
